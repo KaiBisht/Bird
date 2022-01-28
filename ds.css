@@ -1,0 +1,33 @@
+.top-section
+{
+  background-color: #1572A1;
+  text-align: center;
+  height: 250px;
+  position: relative;
+}
+h1{
+  padding-top: 4%;
+  font-size: 5rem;
+  font-family: 'Source Serif 4', sans-serif;
+  color: white;
+}
+
+.logo{
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  height: 50px;
+  width: 50px;
+}
+
+.middle{
+  text-align: center;
+  margin-bottom: 200px;
+  /* background-color: #9AD0EC; */
+}
+
+.pic{
+  width: 75%;
+  height: 900px;
+  margin: 3%;
+}
